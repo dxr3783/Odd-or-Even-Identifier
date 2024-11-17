@@ -81,7 +81,8 @@ The number is odd.
 ```
 
 ### GUI Version
-![GUI Example]![image](https://github.com/user-attachments/assets/15ea0d7f-d2a3-46e2-8522-1b8efe32e11a)
+![image](https://github.com/user-attachments/assets/150fc13e-42ec-487e-8300-2843cc536cdd)
+
 
 
 ---
