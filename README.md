@@ -62,8 +62,8 @@ The number is even.
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dxr3783/even-or-odd-Identifier.git
-   cd even-odd-checker
+   git clone https://github.com/dxr3783/Odd-or-Even-Identifier.git
+   cd Odd-or-Even-Identifier
    ```
 2. Run the desired script:
    - CLI: `python minimalistic.py`
