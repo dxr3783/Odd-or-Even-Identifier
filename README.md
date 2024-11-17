@@ -46,8 +46,8 @@ The number is even.
 
 ## File Structure
 ```
-├── even_odd_cli.py   # CLI-based implementation
-├── even_odd_gui.py   # GUI-based implementation
+├── minimalistic.py   # CLI-based implementation
+├── WithUI.py   # GUI-based implementation
 └── README.md         # Documentation
 ```
 
